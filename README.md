@@ -36,11 +36,11 @@
 
 - 🔭 I’m currently working on Projects for Clients
 
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m currently learning Machine Learning and being a better programmer
 
-- 👯 I’m looking to collaborate on  
+- 👯 I’m open to collaboration
 
-- 💬 Talk to me about  
+- 💬 Talk to me about programming, chess, projects, jokes and epistemology
 
 
 
